@@ -1,0 +1,28 @@
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\bin\Debug\Menu_app.exe.config
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\bin\Debug\Menu_app.exe
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\bin\Debug\Menu_app.pdb
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.csprojAssemblyReference.cache
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Form1.resources
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Properties.Resources.resources
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.csproj.GenerateResource.cache
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.csproj.CoreCompileInputs.cache
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.exe
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.pdb
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Form2.resources
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Form3.resources
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Form4.resources
+C:\Users\Joseph DC\source\repos\Menu_app\Menu_app\obj\Debug\Menu_app.Form5.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\bin\Debug\Menu_app.exe.config
+C:\Users\ciit\Documents\Menu_app\Menu_app\bin\Debug\Menu_app.exe
+C:\Users\ciit\Documents\Menu_app\Menu_app\bin\Debug\Menu_app.pdb
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.csprojAssemblyReference.cache
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Form1.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Form2.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Form3.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Form4.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Form5.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.Properties.Resources.resources
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.csproj.GenerateResource.cache
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.csproj.CoreCompileInputs.cache
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.exe
+C:\Users\ciit\Documents\Menu_app\Menu_app\obj\Debug\Menu_app.pdb
